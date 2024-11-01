@@ -10,5 +10,29 @@
     "quote": "The secret of life, though, is to fall seven times and to get up eight times.",
     "author": "Paulo Coelho",
     "authorCaption": "Brazilian novelist and lyricist"
+  },
+  {
+    "id": 3,
+    "quote": "One cannot think well, love well, sleep well, if one has not dined well.",
+    "author": "Virginia Woolf",
+    "authorCaption": "British writer"
+  },
+  {
+    "id": 4,
+    "quote": "A mask tells us more than a face.",
+    "author": "Oscar Wilde",
+    "authorCaption": "Irish wit, poet, and dramatist"
+  },
+  {
+    "id": 5,
+    "quote": "One cannot think well, love well, sleep well, if one has not dined well.",
+    "author": "Virginia Woolf",
+    "authorCaption": "British writer"
+  },
+  {
+    "id": 6,
+    "quote": "The world is a book, and those who do not travel read only one page.",
+    "author": "St. Augustine",
+    "authorCaption": "North African Christian theologian and philosopher"
   }
 ]
