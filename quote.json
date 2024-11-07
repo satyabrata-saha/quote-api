@@ -34,5 +34,29 @@
     "quote": "The world is a book, and those who do not travel read only one page.",
     "author": "St. Augustine",
     "authorCaption": "North African Christian theologian and philosopher"
+  },
+  {
+    "id": 7,
+    "quote": "There is nothing better than a friend, unless it is a friend with chocolate.",
+    "author": "Linda Grayson",
+    "authorCaption": ""
+  },
+  {
+    "id": 8,
+    "quote": "Cultivation of mind should be the ultimate aim of human existence.",
+    "author": "B. R. Ambedkar",
+    "authorCaption": "Indian jurist, economist, social reformer and political leader"
+  },
+  {
+    "id": 9,
+    "quote": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+    "author": "Marie Curie",
+    "authorCaption": "Polish-French physicist"
+  },
+  {
+    "id": 10,
+    "quote": "To be secure on land, we must be supreme at sea.",
+    "author": "Jawaharlal Nehru",
+    "authorCaption": "Indian independence activist, later the first Prime Minister of India"
   }
 ]
