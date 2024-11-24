@@ -106,5 +106,47 @@
     "quote": "Funny way to get to a wizards' school, the train. Magic carpets all got punctures, have they?",
     "author": "Vernon Dursley",
     "authorCaption": "English Muggle"
+  },
+  {
+    "id": 19,
+    "quote": "Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.",
+    "author": "Rabindranath Tagore",
+    "authorCaption": "Bengali poet"
+  },
+  {
+    "id": 20,
+    "quote": "You come into this world with nothing, and you go empty-handed. The wealth of life lies in how you allow its experiences to enrich you.",
+    "author": "Sadhguru",
+    "authorCaption": "Indian yoga guru"
+  },
+  {
+    "id": 21,
+    "quote": "The organs are the horses, the mind is the rein, the intellect is the charioteer, the soul is the rider, and the body is the chariot.",
+    "author": "Swami Vivekananda",
+    "authorCaption": "Indian Hindu monk, philosopher, and author"
+  },
+  {
+    "id": 22,
+    "quote": "A person often meets his destiny on the road he took to avoid it.",
+    "author": "Jean de La Fontaine",
+    "authorCaption": "French poet and fabulist"
+  },
+  {
+    "id": 23,
+    "quote": "Everything repeats. Am I going in circles, or dare I hope I am on a spiral?",
+    "author": "Clive Staples Lewis",
+    "authorCaption": "British writer, known for 'The Chronicles of Narnia'"
+  },
+  {
+    "id": 24,
+    "quote": "I have tried to do what is true and not ideal.",
+    "author": "Henri de Toulouse-Lautrec",
+    "authorCaption": "French artist"
+  },
+  {
+    "id": 25,
+    "quote": "I hold that a strongly marked personality can influence descendants for generations.",
+    "author": "Beatrix Potter",
+    "authorCaption": "English writer of children's books"
   }
 ]
