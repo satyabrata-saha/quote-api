@@ -148,5 +148,59 @@
     "quote": "I hold that a strongly marked personality can influence descendants for generations.",
     "author": "Beatrix Potter",
     "authorCaption": "English writer of children's books"
+  },
+  {
+    "id": 26,
+    "quote": "The fate of animals is of far greater importance to me than the fear of appearing ridiculous.",
+    "author": "Émile Zola",
+    "authorCaption": "French novelist, critic, and political activist"
+  },
+  {
+    "id": 27,
+    "quote": "I have a theory that selflessness and bravery aren't all that different.",
+    "author": "Veronica Roth",
+    "authorCaption": "American novelist"
+  },
+  {
+    "id": 28,
+    "quote": "There is nothing more deceptive than an obvious fact.",
+    "author": "Sherlock Holmes",
+    "authorCaption": "Fictional detective created by Arthur Conan Doyle"
+  },
+  {
+    "id": 29,
+    "quote": "Blessed is the season which engages the whole world in a conspiracy of love.",
+    "author": "Hamilton Wright Mabie",
+    "authorCaption": "American essayist"
+  },
+  {
+    "id": 30,
+    "quote": "The world is a drama, staged in a dream.",
+    "author": "Guru Nanak",
+    "authorCaption": "Founder and first Guru of Sikhism"
+  },
+  {
+    "id": 31,
+    "quote": "The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves.",
+    "author": "Ada Lovelace",
+    "authorCaption": "English mathematician and writer"
+  },
+  {
+    "id": 32,
+    "quote": "Life would be tragic if it weren’t funny.",
+    "author": "Stephen Hawking",
+    "authorCaption": "British physicist and writer"
+  },
+  {
+    "id": 32,
+    "quote": "You find me at work; excuse the dust on my blouse. I sculpt my marble myself.",
+    "author": "Camille Claudel",
+    "authorCaption": "French sculptor"
+  },
+  {
+    "id": 33,
+    "quote": "A hermit is simply a person to whom civilization has failed to adjust itself.",
+    "author": "Will Cuppy",
+    "authorCaption": "American humorist and literary critic"
   }
 ]
